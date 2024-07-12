@@ -1,0 +1,6 @@
+[submodule "ejercicio_1"]
+	path = ejercicio_1
+	url = https://github.com/mikelalda13/ejercicio_1.git
+[submodule "ejercicio_x"]
+	path = ejercicio_x
+	url = https://github.com/mikelalda13/ejercicio_2.git
